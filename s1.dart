@@ -1,1 +1,2 @@
-int f1 = 0;
+int s1 = 0;
+int sss = 2;
